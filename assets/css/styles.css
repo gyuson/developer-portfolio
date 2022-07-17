@@ -7,8 +7,8 @@
   --bold-font: 700;
   --bolder-font: 900;
   --bg-color: #fcfcfc;
-  --primary-color: #4756df;
-  --secondary-color: #ff7235;
+  --primary-color: #191970;
+  --secondary-color: #b0c4de;
   --primary-shadow: #8b8eaf;
   --secondary-shadow: #a17a69;
   --bottom-margin: 0.5rem;
@@ -111,8 +111,9 @@ nav ul li {
 }
 
 .hero img {
-  height: 37.5rem;
-  width: 37.5rem;
+  height: 40%;
+  width: 40%;
+  border: 10px solid whitesmoke;
 }
 
 .bio {
